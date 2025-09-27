@@ -9,7 +9,7 @@
 
 ### 🧠 Currently
 
-- 🎓 B.Tech (Computer Science & Engineering)
+- 🎓 Diploma (Computer Science & Engineering)
 - 📍 Based in Uttar Pradesh, India
 - 🧑‍💻 Learning, building, and experimenting with code
 
