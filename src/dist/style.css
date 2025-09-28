@@ -103,10 +103,8 @@ body {
 #uilist li img {
   height: 40vh;
   width: 30vh;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   margin-left: 1.5vh;
   margin-top: 1.5vh;
   filter: grayscale(100%);
@@ -250,10 +248,8 @@ body {
 #social img {
   height: 10vh;
   width: 10vh;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   border: 2px solid var(--secondary);
   padding: 2px;
   border-radius: 10px;
@@ -330,9 +326,11 @@ body {
     background-color: var(--primary);
     background-image: linear-gradient(var(--fade_shade_01) 1px, transparent 1px), linear-gradient(90deg, var(--fade_shade_01), transparent 1px);
   }
+
   #uilist {
     left: 15%;
   }
+
   #theme {
     right: 40%;
   }
@@ -342,6 +340,7 @@ body {
     background: var(--secondary);
     overflow-x: hidden;
   }
+
   .grid-2d {
     width: 100vw;
     height: 250vh;
@@ -349,39 +348,46 @@ body {
     background-image: linear-gradient(var(--fade_shade_01) 1px, transparent 1px), linear-gradient(90deg, var(--fade_shade_01), transparent 1px);
     background-size: 60px 60px;
   }
+
   #uilist {
     display: grid;
-    width: -moz-max-content;
     width: max-content;
   }
+
   #uilist li {
     margin-top: 2vh;
     margin-left: 0vh;
     width: 40vh;
   }
+
   #uilist li h2 {
     position: relative;
     left: -4vh;
     text-align: center;
   }
+
   #uilist li:nth-child(3) h2 {
     left: -5vh;
   }
+
   #uilist li img {
     height: 40vh;
     width: 37vh;
   }
+
   #uilist li:nth-child(2) a,
-  #uilist li:nth-child(3) a {
+#uilist li:nth-child(3) a {
     left: 8vh;
   }
+
   #social {
     width: 60vh;
     bottom: -170%;
     left: -4%;
   }
+
   #theme {
     height: 15vh;
     bottom: -163%;
   }
-}/*# sourceMappingURL=style.css.map */
+}
