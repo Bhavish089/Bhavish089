@@ -32,9 +32,3 @@ function animate() {
   requestAnimationFrame(animate);
 }
 animate();
-
-let thslider = document.getElementsByClassName(".switch")
-
-thslider.onclick = function() {
-  alert("working");
-}

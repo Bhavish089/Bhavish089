@@ -38,8 +38,3 @@ function animate() {
 }
 
 animate();
-var thslider = document.getElementsByClassName(".switch");
-
-thslider.onclick = function () {
-  alert("working");
-};
