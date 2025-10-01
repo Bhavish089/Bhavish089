@@ -53,13 +53,20 @@
         </li>
     </ul>
     <div id="theme">
-        <label class="switch">
+        <label class="switch" id="switch">
             <input class="toggle" type="checkbox" aria-label="Toggle theme" />
             <span class="slider"></span>
             <span class="card-side"></span>
         </label>
     </div>
     <script src="/src/main.js"></script>
+    <script>
+        let thslider = document.getElementById("switch")
+
+        thslider.onclick = function () {
+            alert("working");
+        }
+    </script>
 </body>
 
 </html>
