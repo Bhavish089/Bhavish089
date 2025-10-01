@@ -331,12 +331,12 @@ body {
     background-image: linear-gradient(var(--fade_shade_01) 1px, transparent 1px), linear-gradient(90deg, var(--fade_shade_01), transparent 1px);
   }
   #uilist {
-    left: 9%;
+    left: 13%;
   }
   #social {
     height: -moz-fit-content;
     height: fit-content;
-    top: 270%;
+    bottom: 27%;
     margin-left: -5%;
   }
   #theme {
