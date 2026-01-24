@@ -11,18 +11,15 @@ I design and orchestrate **modular AI systems, device workflows, and digital env
 
 ### 📚 Currently Learning
 - Diploma in **Computer Science & Engineering**  
-- Management theory, multimedia systems, and industrial HRD concepts  
-- Strategic platform analysis for monetization (YouTube, Loco, Rooter, Udemy, LinkedIn Learning)  
+- Management theory, multimedia systems, and industrial HRD concepts   
 
 ### 💡 Interests
 - Designing modular AI blueprints and file hierarchies  
 - Exploring monetization strategies for technical knowledge  
-- Crafting meaningful gamer tags and digital identities (anchored by **2912**)  
 - Building professional, ATS-friendly resumes with modular templates  
 
 ### 🚀 Goals
 - Ace multimedia systems and management theory exams  
-- Upgrade my BGMI gamer tag with symbolic runes and numerals  
 - Create a professional resume tailored to Computer Science & Engineering  
 - Optimize passive income streams through technical content platforms  
 
